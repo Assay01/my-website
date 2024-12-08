@@ -80,4 +80,3 @@
         <button class="button" onclick="window.location.href='https://zholaielbolsyn000.wixsite.com/elbolsyn';">Сайтқа өту</button>
     </div>
 </body>
-</html>
