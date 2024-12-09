@@ -76,6 +76,9 @@
             <a href="contact.html">Contact</a>
         </div>
         <div class="subtitle">Жолай Елболсынның wix сайты</div>
+        <label for="name">zholaielbolsyn:</label>
+
+<input type="text" id="zholai" name="elbolsyn" required minlength="4" maxlength="8" size="10" />
         <div class="title">Қош келдіңіздер</div>
         <button class="button" onclick="window.location.href='https://zholaielbolsyn000.wixsite.com/elbolsyn';">Сайтқа өту</button>
     </div>
