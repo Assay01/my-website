@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <head>
-        <meta name="google-site-verification" content="zHofzvIgkIv58tLzDkCVewlI7ZhZUeLhPwHCYkQOtks" />
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Zh_elbolsyn - бұл сайт сіздің идеяларыңыз бен жобаларыңызды бөлісуге арналған.">
